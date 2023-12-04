@@ -54,17 +54,23 @@
     "fog" : [
     ],
     "night_clear": [
-        "Weather forecast for tonight: dark"
+        "Weather forecast for tonight: dark",
+        "See you in the morning"
     ],
     "night_cloudy" : [
+                "See you in the morning"
     ],
     "night_showers" : [
+        "See you in the morning"
     ],
     "night_rain" : [
+        "See you in the morning"
     ],
     "night_thunderstorm" : [
-        "It's a stormy night, don't be scared"
+        "It's a stormy night, don't be scared",
+        "See you in the morning"
     ],
     "night_alt_cloudy_windy" : [
+        "See you in the morning"
     ]    
 }
