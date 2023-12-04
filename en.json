@@ -17,7 +17,7 @@
         "You are early today"
     ],
     "afternoon" : [
-        "You are making a difference!",
+        "You are making a difference!"
     ],
     "evening" : [
         "You made someone smile today, I know it",
@@ -34,23 +34,23 @@
         "It's a beautiful day",
         "The sun is shining today!",
         "It's such a beautiful day",
-        ],
+    ],
     "day_cloudy" : [
         "It may be cloudy, but it's still nice out!",
         "The sun is hiding right now"
-        ],
+    ],
     "cloudy" : [
-        ],
+    ],
     "cloudy_windy" : [
     ],
     "showers" : [
-        ],
+    ],
     "rain" : [
         "Take your umbrella with you",
         "It's rainy outside, but you brighten my day"
-        ],
+    ],
     "thunderstorm" : [
-        ],
+    ],
     "fog" : [
     ],
     "night_clear": [
