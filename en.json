@@ -25,13 +25,13 @@
         "See you tomorrow!",
         "Sleep tight"
     ],
-        "snow": [
+    "snow": [
     ],
     "day_sunny" : [
         "Today is a sunny day",
         "It's a beautiful day",
         "The sun is shining today!",
-        "It's such a beautiful day",
+        "It's such a beautiful day"
     ],
     "day_cloudy" : [
         "It may be cloudy, but it's still nice out!",
