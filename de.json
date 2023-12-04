@@ -38,53 +38,53 @@
                "Schnee!"
         ],
         "day_sunny" : [
-                "E o zi frumoasă"
+                "Es ist ein schöner Tag"
         ],
         "day_cloudy" : [
-                "Soarele e ascuns in nori"
+                "Die Sonne ist in den Wolken verborgen"
         ],
         "cloudy" : [
         ],
         "cloudy_windy" : [
         ],
         "showers" : [
-                "Plouă, nu uita umbrela!",
-                "Ești ca soarele într-o zi ploioasă"
+                "Es regnet, Regenschirm nicht vergessen!",
+                "Du bist wie die Sonne an einem regnerischen Tag"
         ],
         "rain" : [
-                "Plouă, nu uita umbrela!",
-                "Plouă, dar tu înveselești ziua oricui!",
-                "Ești ca soarele într-o zi ploioasă"
+                "Es regnet, Regenschirm nicht vergessen!",
+                "Es regnet, aber du machst allen Freude!",
+                "Du bist wie die Sonne an einem regnerischen Tag"
         ],
         "thunderstorm" : [
         ],
         "fog" : [
-                "Este ceață",
-                "Ești ca soarele într-o zi cu ceață"
+                "Es ist neblig",
+                "Du bist wie die Sonne an einem nebligen Tag"
         ],
         "night_clear": [
-                "Noaptea asta e senin",
-                "Ne vedem dimineață!"
+                "Heute Abend ist klar",
+                "Sehe dich am Morgen!"
         ],        
         "night_cloudy" : [
-                "E cam innorat",
-                "Ne vedem dimineață!"
+                "Es ist ein bisschen bewölkt",
+                "Sehe dich am Morgen!"
         ],
         "night_showers" : [
-                "Ne vedem dimineață!"
+                "Sehe dich am Morgen!"
         ],
         "night_rain" : [
-                "Noaptea asta plouă",
-                "Ne vedem dimineață!"
+                "Heute Nacht regnet es",
+                "Sehe dich am Morgen!"
             ],
         "night_thunderstorm" : [
                 "Noaptea asta: furtună",
-                "Ne vedem dimineață!"
+                "Sehe dich am Morgen!"
         ],
         "night_alt_cloudy_windy" : [
-                "Ne vedem dimineață!"
+                "Sehe dich am Morgen!"
         ],
         "....-01-01": [
-                "La mulți ani!"
+                "Frohes Neues Jahr!"
         ]
 }
