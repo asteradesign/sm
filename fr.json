@@ -1,35 +1,50 @@
 {
     "anytime" : [
-    "Salut, sexy toi!",
+    "Comme tu es sexy !",
+    "J'ai de la chance d'être ton miroir !",
+    "Tu as de beaux yeux!",
+    "Tu es parfaite!",
+    "Tu as de beaux cheveux",
+    "Tu es comme une bouffée d'air frais",
     "Ça va?"
     ],
     "morning" : [
         "Bonjour beauté!",
+        "Tu as un merveilleux sourire!",
+        "Bonne journée!",
         "Profitez de votre journée !",
-        "Comment as tu dormi?"
+        "As-tu bien dormi?",
+        "Aujourd'hui tu n'auras que des joies"
     ],
     "afternoon" : [
-        "Bonjour, beauté!",
-        "Tu as l'air sexy !",
-        "Tu a l'air bien aujourd'hui!"
+        "Vous faites une différence aujourd'hui !",
+        "Salut beauté!",
+        "Tu a l'air bien aujourd'hui!",
+        "Tu est chaude!"
     ],
     "evening" : [
-        "Tu as fait sourire quelqu'un aujourd'hui, je le sais",
+        "Je sais que tu as fait sourire quelqu'un aujourd'hui",
         "Vous faites une différence",
-        "La journée a été meilleure grâce à tes efforts"
+        "La journée a été meilleure grâce à toi",
+        "Dors bien"
     ],
     "snow": [
-        "Snowball battle!"
+        "Neige!"
     ],
     "day_sunny" : [
+        "C'est une belle journée"
     ],
     "day_cloudy" : [
+        "Le soleil est caché dans les nuages"
     ],
     "cloudy" : [
+        
     ],
     "cloudy_windy" : [
     ],
     "showers" : [
+        "Il pleut, n'oublie pas le parapluie !",
+        "Tu es comme le soleil un jour de pluie"
     ],
     "rain" : [
         "N'oubliez pas votre parapluie"
@@ -37,17 +52,29 @@
     "thunderstorm" : [
         ],
     "fog" : [
+        "Il ya du brouillard",
+        "Tu es comme le soleil un jour de brouillard"
     ],
     "night_clear": [
+        "Ce soir, c'est clair",
+        "Je te vois dans la matinée!"
     ],
     "night_cloudy" : [
+        "C'est un peu nuageux",
+        "Je te vois dans la matinée!"
     ],
     "night_showers" : [
+        "Je te vois dans la matinée!"
     ],
     "night_rain" : [
+        "il pleut ce soir",
+        "Je te vois dans la matinée!"
     ],
     "night_thunderstorm" : [
+        "Ce soir : Tempête",
+        "Je te vois dans la matinée!"
     ],
     "night_alt_cloudy_windy" : [
+        "Je te vois dans la matinée!"
     ]    
 }
