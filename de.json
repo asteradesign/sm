@@ -7,7 +7,7 @@
                 "Ich habe das Glück, dein Spiegel zu sein!",
                 "Du hast schöne Augen!",
                 "Du siehst perfekt aus!",
-                "Du hast wunderschöne Haare",
+                "Du hast wunderschöne Haare"
                 
         ],
         "morning" : [
@@ -48,7 +48,7 @@
         "cloudy_windy" : [
         ],
         "showers" : [
-               "Plouă, nu uita umbrela!",
+                "Plouă, nu uita umbrela!",
                 "Ești ca soarele într-o zi ploioasă"
         ],
         "rain" : [
@@ -65,7 +65,7 @@
         "night_clear": [
                 "Noaptea asta e senin",
                 "Ne vedem dimineață!"
-        ],
+        ],        
         "night_cloudy" : [
                 "E cam innorat",
                 "Ne vedem dimineață!"
