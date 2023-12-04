@@ -1,0 +1,73 @@
+{
+    "anytime" : [
+        "Bună, ce sexy ești!",
+        "Sunt norocoasă să fiu oglinda ta!",
+        "Miroși foarte frumos!",
+        "Ai ochi frumoși!",
+        "Arăți perfect!",
+        "Părul tău e minunat",
+        "Ești ca o gură de aer proaspăt"
+    ],
+    "morning" : [
+        "Bună dimineața, frumusețe!",
+        "Ai un zâmbet minunat!",
+        "O zi minunată!",
+        "Cum ai dormit?",
+        "Ești ca soarele într-o zi ploioasă"
+    ],
+    "afternoon" : [
+        "Tu faci diferența astăzi!",
+        "Bună, frumusețe!",
+        "Arăți bine astăzi!",
+        "Ești sexy!"
+    ],
+    "evening" : [
+        "Știu că astăzi ai făcut pe cineva să zâmbească",
+        "Ziua a fost mai bună datorită ție",
+        "Ne vedem mâine!",
+        "Somn ușor"
+    ],
+    "snow": [
+        "Ninge!"
+    ],
+    "day_sunny" : [
+        "E o zi frumoasă"
+    ],
+    "day_cloudy" : [
+        "Soarele e ascuns acum"
+    ],
+    "cloudy" : [
+    ],
+    "cloudy_windy" : [
+    ],
+    "showers" : [
+        "Plouă, nu uita umbrela!"
+    ],
+    "rain" : [
+        "Plouă, nu uita umbrela!",
+        "Plouă, dar tu înveselești ziua!"
+    ],
+    "thunderstorm" : [
+    ],
+    "fog" : [
+        "Este ceață"
+    ],
+    "night_clear": [
+        "Noaptea asta e senin"
+    ],
+    "night_cloudy" : [
+    ],
+    "night_showers" : [
+    ],
+    "night_rain" : [
+        "Noaptea asta plouă"
+    ],
+    "night_thunderstorm" : [
+        "Noaptea asta: furtună"
+    ],
+    "night_alt_cloudy_windy" : [
+    ],
+    "....-01-01": [
+        "La mulți ani!"
+    ]
+}
