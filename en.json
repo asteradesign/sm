@@ -32,26 +32,24 @@
         "Today is a sunny day",
         "It's a beautiful day",
         "The sun is shining today!",
-        "It's such a beautiful day",
-        "It's gorgeous outside, go play!"
-        ],
+        "It's such a beautiful day"
+    ],
     "day_cloudy" : [
-        "It's cloudy out there, but no meatballs",
         "It may be cloudy, but it's still nice out!",
         "The sun is hiding right now"
-        ],
+    ],
     "cloudy" : [
-        ],
+    ],
     "cloudy_windy" : [
     ],
     "showers" : [
-        ],
+    ],
     "rain" : [
         "Take your umbrella with you",
         "It's rainy outside, but you brighten my day"
-        ],
+    ],
     "thunderstorm" : [
-        ],
+    ],
     "fog" : [
     ],
     "night_clear": [
