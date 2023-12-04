@@ -1,0 +1,53 @@
+{
+    "anytime" : [
+    "Salut, sexy toi!",
+    "Ça va?"
+    ],
+    "morning" : [
+        "Bonjour beauté!",
+        "Profitez de votre journée !",
+        "Comment as tu dormi?"
+    ],
+    "afternoon" : [
+        "Bonjour, beauté!",
+        "Tu as l'air sexy !",
+        "Tu a l'air bien aujourd'hui!"
+    ],
+    "evening" : [
+        "Tu as fait sourire quelqu'un aujourd'hui, je le sais",
+        "Vous faites une différence",
+        "La journée a été meilleure grâce à tes efforts"
+    ],
+    "snow": [
+        "Snowball battle!"
+    ],
+    "day_sunny" : [
+    ],
+    "day_cloudy" : [
+    ],
+    "cloudy" : [
+    ],
+    "cloudy_windy" : [
+    ],
+    "showers" : [
+    ],
+    "rain" : [
+        "N'oubliez pas votre parapluie"
+    ],
+    "thunderstorm" : [
+        ],
+    "fog" : [
+    ],
+    "night_clear": [
+    ],
+    "night_cloudy" : [
+    ],
+    "night_showers" : [
+    ],
+    "night_rain" : [
+    ],
+    "night_thunderstorm" : [
+    ],
+    "night_alt_cloudy_windy" : [
+    ]    
+}
