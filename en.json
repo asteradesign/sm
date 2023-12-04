@@ -25,58 +25,5 @@
         "The day was better for your efforts",
         "See you tomorrow!",
         "Sleep tight"
-    ],
-    "snow": [
-        "It's snowing!"
-    ],
-    "day_sunny" : [
-        "Today is a sunny day",
-        "It's a beautiful day",
-        "The sun is shining today!",
-        "It's such a beautiful day",
-    ],
-    "day_cloudy" : [
-        "It may be cloudy, but it's still nice out!",
-        "The sun is hiding right now"
-    ],
-    "cloudy" : [
-    ],
-    "cloudy_windy" : [
-    ],
-    "showers" : [
-    ],
-    "rain" : [
-        "Take your umbrella with you",
-        "It's rainy outside, but you brighten my day"
-    ],
-    "thunderstorm" : [
-    ],
-    "fog" : [
-    ],
-    "night_clear": [
-        "Weather forecast for tonight: dark",
-        "See you in the morning"
-    ],
-    "night_cloudy" : [
-        "See you in the morning"
-    ],
-    "night_showers" : [
-        "See you in the morning"
-    ],
-    "night_rain" : [
-        "See you in the morning"
-    ],
-    "night_thunderstorm" : [
-        "It's a stormy night, don't be scared",
-        "See you in the morning"
-    ],
-    "night_alt_cloudy_windy" : [
-        "See you in the morning"
-    ],
-    "....-01-01": [
-        "Happy New Year"
-    ],
-    "....-12-25": [
-        "Merry Christmas!"
     ]
 }
