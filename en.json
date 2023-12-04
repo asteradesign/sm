@@ -17,9 +17,7 @@
         "You are early today"
     ],
     "afternoon" : [
-        "Hitting your stride!",
         "You are making a difference!",
-        "You're more fun than bubble wrap!"
     ],
     "evening" : [
         "You made someone smile today, I know it",
@@ -29,17 +27,15 @@
         "Sleep tight"
     ],
     "snow": [
-        "Snowball battle!"
+        "Snow!"
     ],
     "day_sunny" : [
         "Today is a sunny day",
         "It's a beautiful day",
         "The sun is shining today!",
         "It's such a beautiful day",
-        "It's gorgeous outside, go play!"
         ],
     "day_cloudy" : [
-        "It's cloudy out there, but no meatballs",
         "It may be cloudy, but it's still nice out!",
         "The sun is hiding right now"
         ],
@@ -51,7 +47,6 @@
         ],
     "rain" : [
         "Take your umbrella with you",
-        "It's wet out there, drive safe!",
         "It's rainy outside, but you brighten my day"
         ],
     "thunderstorm" : [
