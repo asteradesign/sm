@@ -76,5 +76,11 @@
     ],
     "night_alt_cloudy_windy" : [
         "Je te vois dans la matinée!"
-    ]    
+    ] ,   
+    "....-01-01": [
+        "La mulți ani!"
+    ],
+    "....-12-25":[
+        "Frohe Weihnachten"
+    ]
 }
