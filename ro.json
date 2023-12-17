@@ -4,7 +4,7 @@
         "Sunt norocoasă să fiu oglinda ta!",
         "Ai ochi frumoși!",
         "Arăți perfect!",
-        "Ai un păr minunat",
+        "Ai un zâmbet minunat. Zâmbește!",
         "Ești ca o gură de aer proaspăt"
     ],
     "morning" : [
@@ -13,7 +13,7 @@
         "Să ai o zi minunată!",
         "Cum ai dormit?",
         "Astăzi vei avea numai bucurii",
-        "Pregătește-te pentru o zi frumoasă!"
+        "Pregătește-te: vei avea o zi frumoasă!"
     ],
     "afternoon" : [
         "Tu faci diferența astăzi!",
@@ -30,7 +30,7 @@
         "Ninge!"
     ],
     "day_sunny" : [
-        "E o zi frumoasă"
+        "E o zi frumoasă afară"
     ],
     "day_cloudy" : [
         "Soarele e ascuns in nori"
@@ -51,7 +51,7 @@
     "thunderstorm" : [
     ],
     "fog" : [
-        "Este ceață",
+        "Este ceață  afară",
         "Ești ca soarele într-o zi cu ceață"
     ],
     "night_clear": [
@@ -59,7 +59,7 @@
         "Ne vedem dimineață!"
     ],
     "night_cloudy" : [
-        "E cam innorat",
+        "E cam innorat  afară",
         "Ne vedem dimineață!"
     ],
     "night_showers" : [
@@ -70,7 +70,7 @@
         "Ne vedem dimineață!"
     ],
     "night_thunderstorm" : [
-        "Noaptea asta: furtună",
+        "Noaptea asta e furtună afară",
         "Ne vedem dimineață!"
     ],
     "night_alt_cloudy_windy" : [
