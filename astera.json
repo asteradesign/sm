@@ -18,6 +18,30 @@
         "Bună dimineața!",
         "Pregătește-te: vei avea o zi frumoasă!"
 ],
+"day_sunny" : [
+        "E o zi frumoasă afară"
+],
+"day_cloudy" : [
+        "Soarele e ascuns in nori"
+],
+"cloudy" : [
+        "Soarele e ascuns in nori"
+],
+"cloudy_windy" : [
+        "Bate vantul si e noros"
+],
+"showers" : [
+        "Plouă, nu uita umbrela!"
+],
+"rain" : [
+        "Plouă, nu uita umbrela!"
+],
+"thunderstorm" : [
+        "E furtuna afară"
+],
+"fog" : [
+        "Este ceață  afară"
+],
 "....-12-25": [
         "Craciun fericit!"
 ],
